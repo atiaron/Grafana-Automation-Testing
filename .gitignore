@@ -1,0 +1,19 @@
+# PyCharm-related files
+.idea/
+
+# Virtual environment
+.venv/
+
+# Allure results and screenshots
+allure-results/
+allure-screen-shots/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Logs and temporary files
+*.log
+
+# Environment variables
+.env
