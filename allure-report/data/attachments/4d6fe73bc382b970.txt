@@ -1,0 +1,12 @@
+[*] Before finding element by css selector with value button[aria-label='New']
+[+] After finding element by css selector with value button[aria-label='New']
+[*] Before finding element by css selector with value button[aria-label='Help']
+[+] After finding element by css selector with value button[aria-label='Help']
+[*] Before finding element by css selector with value button[aria-label='News']
+[+] After finding element by css selector with value button[aria-label='News']
+[*] Before finding element by css selector with value button[aria-label='Profile']
+[+] After finding element by css selector with value button[aria-label='Profile']
+[*] Before navigating to: http://localhost:3000/
+[+] After navigating to: http://localhost:3000/
+[*] Before finding element by xpath with value //button[@aria-label='Collapse section Users and access']
+[*] Before finding element by xpath with value //button[@aria-label='Collapse section Administration']

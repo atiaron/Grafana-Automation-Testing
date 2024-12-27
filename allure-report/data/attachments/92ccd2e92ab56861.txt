@@ -1,0 +1,54 @@
+[*] Before finding element by xpath with value //button[@aria-label='Expand section Administration']
+[+] After finding element by xpath with value //button[@aria-label='Expand section Administration']
+[*] Before clicking on element: <selenium.webdriver.remote.webelement.WebElement (session="11cff47db2e82a049be2fe7be3408d07", element="f.39EDCECB868D666F5BDC09DE8AAEDBD8.d.6142D96E3C19B4653EEC90F72C129730.e.59")>
+[+] After clicking on element: <selenium.webdriver.remote.webelement.WebElement (session="11cff47db2e82a049be2fe7be3408d07", element="f.39EDCECB868D666F5BDC09DE8AAEDBD8.d.6142D96E3C19B4653EEC90F72C129730.e.59")>
+[*] Before finding element by xpath with value //button[@aria-label='Expand section Users and access']
+[+] After finding element by xpath with value //button[@aria-label='Expand section Users and access']
+[*] Before clicking on element: <selenium.webdriver.remote.webelement.WebElement (session="11cff47db2e82a049be2fe7be3408d07", element="f.39EDCECB868D666F5BDC09DE8AAEDBD8.d.6142D96E3C19B4653EEC90F72C129730.e.62")>
+[+] After clicking on element: <selenium.webdriver.remote.webelement.WebElement (session="11cff47db2e82a049be2fe7be3408d07", element="f.39EDCECB868D666F5BDC09DE8AAEDBD8.d.6142D96E3C19B4653EEC90F72C129730.e.62")>
+[*] Before finding element by xpath with value //a[@href='/admin/users']
+[+] After finding element by xpath with value //a[@href='/admin/users']
+[*] Before clicking on element: <selenium.webdriver.remote.webelement.WebElement (session="11cff47db2e82a049be2fe7be3408d07", element="f.39EDCECB868D666F5BDC09DE8AAEDBD8.d.6142D96E3C19B4653EEC90F72C129730.e.66")>
+[+] After clicking on element: <selenium.webdriver.remote.webelement.WebElement (session="11cff47db2e82a049be2fe7be3408d07", element="f.39EDCECB868D666F5BDC09DE8AAEDBD8.d.6142D96E3C19B4653EEC90F72C129730.e.66")>
+[*] Before finding element by class name with value css-td06pi-button
+[+] After finding element by class name with value css-td06pi-button
+[*] Before clicking on element: <selenium.webdriver.remote.webelement.WebElement (session="11cff47db2e82a049be2fe7be3408d07", element="f.39EDCECB868D666F5BDC09DE8AAEDBD8.d.6142D96E3C19B4653EEC90F72C129730.e.72")>
+[+] After clicking on element: <selenium.webdriver.remote.webelement.WebElement (session="11cff47db2e82a049be2fe7be3408d07", element="f.39EDCECB868D666F5BDC09DE8AAEDBD8.d.6142D96E3C19B4653EEC90F72C129730.e.72")>
+[*] Before finding element by id with value name-input
+[+] After finding element by id with value name-input
+[*] Before changing value of element: <selenium.webdriver.remote.webelement.WebElement (session="11cff47db2e82a049be2fe7be3408d07", element="f.39EDCECB868D666F5BDC09DE8AAEDBD8.d.6142D96E3C19B4653EEC90F72C129730.e.75")>
+[+] After changing value of element: <selenium.webdriver.remote.webelement.WebElement (session="11cff47db2e82a049be2fe7be3408d07", element="f.39EDCECB868D666F5BDC09DE8AAEDBD8.d.6142D96E3C19B4653EEC90F72C129730.e.75")>
+[*] Before finding element by id with value email-input
+[+] After finding element by id with value email-input
+[*] Before changing value of element: <selenium.webdriver.remote.webelement.WebElement (session="11cff47db2e82a049be2fe7be3408d07", element="f.39EDCECB868D666F5BDC09DE8AAEDBD8.d.6142D96E3C19B4653EEC90F72C129730.e.78")>
+[+] After changing value of element: <selenium.webdriver.remote.webelement.WebElement (session="11cff47db2e82a049be2fe7be3408d07", element="f.39EDCECB868D666F5BDC09DE8AAEDBD8.d.6142D96E3C19B4653EEC90F72C129730.e.78")>
+[*] Before finding element by id with value username-input
+[+] After finding element by id with value username-input
+[*] Before changing value of element: <selenium.webdriver.remote.webelement.WebElement (session="11cff47db2e82a049be2fe7be3408d07", element="f.39EDCECB868D666F5BDC09DE8AAEDBD8.d.6142D96E3C19B4653EEC90F72C129730.e.79")>
+[+] After changing value of element: <selenium.webdriver.remote.webelement.WebElement (session="11cff47db2e82a049be2fe7be3408d07", element="f.39EDCECB868D666F5BDC09DE8AAEDBD8.d.6142D96E3C19B4653EEC90F72C129730.e.79")>
+[*] Before finding element by id with value password-input
+[+] After finding element by id with value password-input
+[*] Before changing value of element: <selenium.webdriver.remote.webelement.WebElement (session="11cff47db2e82a049be2fe7be3408d07", element="f.39EDCECB868D666F5BDC09DE8AAEDBD8.d.6142D96E3C19B4653EEC90F72C129730.e.80")>
+[+] After changing value of element: <selenium.webdriver.remote.webelement.WebElement (session="11cff47db2e82a049be2fe7be3408d07", element="f.39EDCECB868D666F5BDC09DE8AAEDBD8.d.6142D96E3C19B4653EEC90F72C129730.e.80")>
+[*] Before finding element by class name with value css-td06pi-button
+[+] After finding element by class name with value css-td06pi-button
+[*] Before clicking on element: <selenium.webdriver.remote.webelement.WebElement (session="11cff47db2e82a049be2fe7be3408d07", element="f.39EDCECB868D666F5BDC09DE8AAEDBD8.d.6142D96E3C19B4653EEC90F72C129730.e.81")>
+[+] After clicking on element: <selenium.webdriver.remote.webelement.WebElement (session="11cff47db2e82a049be2fe7be3408d07", element="f.39EDCECB868D666F5BDC09DE8AAEDBD8.d.6142D96E3C19B4653EEC90F72C129730.e.81")>
+[*] Before finding element by xpath with value //a[@href='/admin/users']
+[+] After finding element by xpath with value //a[@href='/admin/users']
+[*] Before clicking on element: <selenium.webdriver.remote.webelement.WebElement (session="11cff47db2e82a049be2fe7be3408d07", element="f.39EDCECB868D666F5BDC09DE8AAEDBD8.d.6142D96E3C19B4653EEC90F72C129730.e.88")>
+[+] After clicking on element: <selenium.webdriver.remote.webelement.WebElement (session="11cff47db2e82a049be2fe7be3408d07", element="f.39EDCECB868D666F5BDC09DE8AAEDBD8.d.6142D96E3C19B4653EEC90F72C129730.e.88")>
+[*] Before finding element by xpath with value //table[@class='css-elscwy']/tbody/tr
+[+] After finding element by xpath with value //table[@class='css-elscwy']/tbody/tr
+[*] Before finding element by xpath with value //table[@class='css-elscwy']/tbody/tr
+[+] After finding element by xpath with value //table[@class='css-elscwy']/tbody/tr
+[*] Before navigating to: http://localhost:3000/
+[+] After navigating to: http://localhost:3000/
+[*] Before finding element by xpath with value //button[@aria-label='Collapse section Users and access']
+[+] After finding element by xpath with value //button[@aria-label='Collapse section Users and access']
+[*] Before clicking on element: <selenium.webdriver.remote.webelement.WebElement (session="11cff47db2e82a049be2fe7be3408d07", element="f.39EDCECB868D666F5BDC09DE8AAEDBD8.d.B2805F6E486D8E113EC901FA33A3650C.e.123")>
+[+] After clicking on element: <selenium.webdriver.remote.webelement.WebElement (session="11cff47db2e82a049be2fe7be3408d07", element="f.39EDCECB868D666F5BDC09DE8AAEDBD8.d.B2805F6E486D8E113EC901FA33A3650C.e.123")>
+[*] Before finding element by xpath with value //button[@aria-label='Collapse section Administration']
+[+] After finding element by xpath with value //button[@aria-label='Collapse section Administration']
+[*] Before clicking on element: <selenium.webdriver.remote.webelement.WebElement (session="11cff47db2e82a049be2fe7be3408d07", element="f.39EDCECB868D666F5BDC09DE8AAEDBD8.d.B2805F6E486D8E113EC901FA33A3650C.e.130")>
+[+] After clicking on element: <selenium.webdriver.remote.webelement.WebElement (session="11cff47db2e82a049be2fe7be3408d07", element="f.39EDCECB868D666F5BDC09DE8AAEDBD8.d.B2805F6E486D8E113EC901FA33A3650C.e.130")>

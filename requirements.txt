@@ -1,0 +1,9 @@
+allure-pytest==2.13.5
+allure-python-commons==2.13.5
+eyes-common==5.28.1
+eyes-selenium==5.26.1
+pytest==8.3.2
+requests==2.32.3
+selenium==4.24.0
+smart-assertions==1.0.2
+webdriver-manager==4.0.2

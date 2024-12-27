@@ -1,0 +1,1 @@
+You are using "5.26.1" and there is a newer version "5.27.2" of the "eyes-selenium" SDK.

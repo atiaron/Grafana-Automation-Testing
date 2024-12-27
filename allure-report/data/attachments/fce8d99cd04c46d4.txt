@@ -1,0 +1,26 @@
+[*] Before navigating to: http://localhost:3000/
+[+] After navigating to: http://localhost:3000/
+[*] Before finding element by name with value user
+[+] After finding element by name with value user
+[*] Before changing value of element: <selenium.webdriver.remote.webelement.WebElement (session="4e954c9f5057100e762106f4e49d6bf6", element="f.197B3C0BC53319B6A64B7E7EA3DD755D.d.B8B261DA83BAEEB3826EF4654CC6C18D.e.3")>
+[+] After changing value of element: <selenium.webdriver.remote.webelement.WebElement (session="4e954c9f5057100e762106f4e49d6bf6", element="f.197B3C0BC53319B6A64B7E7EA3DD755D.d.B8B261DA83BAEEB3826EF4654CC6C18D.e.3")>
+[*] Before finding element by name with value password
+[+] After finding element by name with value password
+[*] Before changing value of element: <selenium.webdriver.remote.webelement.WebElement (session="4e954c9f5057100e762106f4e49d6bf6", element="f.197B3C0BC53319B6A64B7E7EA3DD755D.d.B8B261DA83BAEEB3826EF4654CC6C18D.e.5")>
+[+] After changing value of element: <selenium.webdriver.remote.webelement.WebElement (session="4e954c9f5057100e762106f4e49d6bf6", element="f.197B3C0BC53319B6A64B7E7EA3DD755D.d.B8B261DA83BAEEB3826EF4654CC6C18D.e.5")>
+[*] Before finding element by class name with value css-1b7vft8-button
+[+] After finding element by class name with value css-1b7vft8-button
+[*] Before clicking on element: <selenium.webdriver.remote.webelement.WebElement (session="4e954c9f5057100e762106f4e49d6bf6", element="f.197B3C0BC53319B6A64B7E7EA3DD755D.d.B8B261DA83BAEEB3826EF4654CC6C18D.e.10")>
+[+] After clicking on element: <selenium.webdriver.remote.webelement.WebElement (session="4e954c9f5057100e762106f4e49d6bf6", element="f.197B3C0BC53319B6A64B7E7EA3DD755D.d.B8B261DA83BAEEB3826EF4654CC6C18D.e.10")>
+[*] Before finding element by class name with value css-bhnz0e-button
+[+] After finding element by class name with value css-bhnz0e-button
+[*] Before clicking on element: <selenium.webdriver.remote.webelement.WebElement (session="4e954c9f5057100e762106f4e49d6bf6", element="f.197B3C0BC53319B6A64B7E7EA3DD755D.d.B8B261DA83BAEEB3826EF4654CC6C18D.e.19")>
+[+] After clicking on element: <selenium.webdriver.remote.webelement.WebElement (session="4e954c9f5057100e762106f4e49d6bf6", element="f.197B3C0BC53319B6A64B7E7EA3DD755D.d.B8B261DA83BAEEB3826EF4654CC6C18D.e.19")>
+[*] Before finding element by class name with value css-17tm80
+[+] After finding element by class name with value css-17tm80
+[*] Before finding element by class name with value css-17tm80
+[+] After finding element by class name with value css-17tm80
+[*] Before navigating to: http://localhost:3000/
+[+] After navigating to: http://localhost:3000/
+[*] Before finding element by xpath with value //button[@aria-label='Collapse section Users and access']
+[*] Before finding element by xpath with value //button[@aria-label='Collapse section Administration']

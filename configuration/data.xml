@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<configuration>
+    <general>
+        <wait_time>2</wait_time>
+        <screenshots_path>C:/ProgramData/Jenkins/.jenkins/workspace/My First Job/allure-screen-shots/</screenshots_path>
+
+
+    </general>
+    <web>
+        <browser>chrome</browser>
+        <url>http://localhost:3000/</url>
+        <username>admin</username>
+        <password>admin</password>
+        <csv_location>ddt/users.csv</csv_location>
+        <Execute_Applitools>no</Execute_Applitools>
+        <Applitools_Key>4YLDS2vo1051063sdOOe3oWkyOXv69m1UCiMKUFpJQA106dCI110</Applitools_Key>
+
+    </web>
+</configuration>
